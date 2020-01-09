@@ -1,0 +1,23 @@
+{
+  "name": "contest-question-downloader",
+  "version": "1.0.0",
+  "description": "competetive tool to download all questions of a given codeforces contest as pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak0906/contest-question-bank.git"
+  },
+  "author": "Sarthak Khandelwal <sarthak0906@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarthak0906/contest-question-bank/issues"
+  },
+  "homepage": "https://github.com/sarthak0906/contest-question-bank#readme",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.2",
+    "puppeteer": "^2.0.0"
+  }
+}
